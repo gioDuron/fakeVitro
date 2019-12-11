@@ -1,11 +1,1 @@
-{
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+{"campaign":[{"idCampaign":1,"name":"hello","date":"123213","status":1},{"idCampaign":2,"name":"hello","date":"123213","status":1},{"idCampaign":3,"name":"hello","date":"123213","status":1},{"idCampaign":4,"name":"hello","date":"123213","status":1},{"idCampaign":5,"name":"hello","date":"123213","status":1},{"idCampaign":6,"name":"hello","date":"123213","status":1}]}
